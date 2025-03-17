@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D-Mart Features</title>
+</head>
+<body style="background-color: #f9f9f9; font-family: Arial, sans-serif;">
+
+    <table width="100%" bgcolor="#333">
+        <tr>
+            <td align="center">
+                <h1 style="color: white;">✨ D-Mart Features</h1>
+            </td>
+        </tr>
+    </table>
+
+    <table width="100%">
+        <tr>
+            <td width="20%" valign="top" bgcolor="#222" style="color: white; padding: 15px;">
+                <h3>📌 Navigation</h3>
+                <a href="home.html" style="color: white;">🏠 Home</a><br><br>
+                <a href="about.html" style="color: white;">ℹ About</a><br><br>
+                <a href="smartcart.html" style="color: white;">🛒 Smart Cart</a><br><br>
+                <a href="ai.html" style="color: white;">🤖 AI Recommendations</a><br><br>
+                <a href="payment.html" style="color: white;">💳 Payment</a><br><br>
+                <a href="inventory.html" style="color: white;">📦 Inventory</a><br><br>
+                <a href="dashboard.html" style="color: white;">📊 Dashboard</a><br><br>
+                <a href="support.html" style="color: white;">📞 Support</a><br><br>
+                <a href="contact.html" style="color: white;">✉ Contact</a><br>
+            </td>
+
+            <td valign="top" style="padding: 20px;">
+                <h2>🚀 Key Features</h2>
+                <ul>
+                    <li>✔ **Smart Cart** - AI-powered shopping experience</li>
+                    <li>✔ **AI Recommendations** - Personalized product suggestions</li>
+                    <li>✔ **Fast Checkout** - Secure and quick payment options</li>
+                    <li>✔ **Wide Product Range** - Electronics, clothing, groceries, and more</li>
+                    <li>✔ **User-Friendly Dashboard** - Track orders and inventory easily</li>
+                </ul>
+
+                <h2>🎥 Feature Demo</h2>
+                <img src="features_demo.jpg" width="400" height="250" alt="Feature Demo">
+                <p>Experience seamless shopping like never before!</p>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
